@@ -5,3 +5,4 @@ torch==2.0.1
 soundfile==0.12.1
 numpy==1.24.3
 gunicorn==21.2.0
+setuptools==65.5.0
